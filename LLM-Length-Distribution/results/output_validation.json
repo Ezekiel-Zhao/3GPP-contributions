@@ -1,0 +1,10 @@
+{
+  "ks_stat": 0.002605040869690543,
+  "ks_pvalue": 0.814751116105091,
+  "original_mean": 264.96411977461617,
+  "sampled_mean": 264.24501,
+  "original_median": 232.0,
+  "sampled_median": 233.0,
+  "original_std": 221.61672199125465,
+  "sampled_std": 220.4727759613415
+}
